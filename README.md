@@ -11,5 +11,5 @@ Bibliotecas utilizadas:
 
 | O programa contém 2 (dois) arquivos .py (1 para as funções e outro para o arquivo main) portando instale os dois para que o programa funcione;
 | Programa bastante simples, apenas colar o link da opção que você escolher (imagem, música ou vídeo) e aguardar a instalação do mesmo
-| Para utilizar da função 3 (três) recomendo que instale o "ffmpeg/avconv" ou o "ffprobe/avprobe" no seu computador, pois se não for instalado o programa irá finalizar após o download da música, mas se nnão instalar ele ará o download do mesmo jeito;
+| Para utilizar da função 3 (três) recomendo que instale o "ffmpeg/avconv" ou o "ffprobe/avprobe" no seu computador, pois se não for instalado o programa irá finalizar após o download da música, mas se não instalar ele fará o download do mesmo jeito;
 | Todos os arquivos tanto de imagem, musica e vídeo após serem baixados, estarão instalados no diretório da pasta do programa.
